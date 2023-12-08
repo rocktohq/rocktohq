@@ -2,7 +2,6 @@
 <h1 align="center">Hi, I'm Saidul Mursalin</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 <br/>
-<br/>
 
 ## 📫 Connect me with
 [<p align="center"><img height="75" src="https://raw.githubusercontent.com/rocktohq/rocktohq/main/assets/images/linkedin.png">](https://www.linkedin.com/in/itzmonir)[<img height="75" src="https://raw.githubusercontent.com/rocktohq/rocktohq/main/assets/images/facebook.png">](https://facebook.com/itzmonir)</p>
@@ -12,7 +11,6 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rocktohq&theme=tokyonight">
 </p>
-<br/>
 <br/>
 
 ## 💻 Technologies that I know
