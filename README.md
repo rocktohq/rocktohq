@@ -1,12 +1,20 @@
-[![MasterHead](https://gaper.io/wp-content/uploads/2022/02/mern-stack.webp)](https://monirhq.com)
+[![MasterHead](https://raw.githubusercontent.com/rocktohq/rocktohq/main/assets/images/banner.png)](https://monirhq.com)
 <h1 align="center">Hi, I'm Saidul Mursalin</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 <br/>
 <br/>
 
+## 📫 Connect me with
+#
+
+[<p align="center"><img height="75" src="https://raw.githubusercontent.com/rocktohq/rocktohq/main/assets/images/linkedin.png">](https://www.linkedin.com/in/itzmonir)[<img height="75" src="https://raw.githubusercontent.com/rocktohq/rocktohq/main/assets/images/facebook.png">](https://facebook.com/itzmonir)</p>
+<br/>
+
 ## 📈 Current Stats
 #
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rocktohq&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rocktohq&theme=tokyonight">
+</p>
 <br/>
 <br/>
 
@@ -28,3 +36,6 @@
 ### ⚡ Fun fact - I love back-end and anime.
 
 <br />
+
+#
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rocktohq&theme=tokyonight" alt=""></p>
