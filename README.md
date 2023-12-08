@@ -7,7 +7,7 @@
 [<p align="center"><img height="75" src="https://raw.githubusercontent.com/rocktohq/rocktohq/main/assets/images/linkedin.png">](https://www.linkedin.com/in/itzmonir)[<img height="75" src="https://raw.githubusercontent.com/rocktohq/rocktohq/main/assets/images/facebook.png">](https://facebook.com/itzmonir)</p>
 <br/>
 
-## 📈 Current Stats
+## 📈 Current stats
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rocktohq&theme=tokyonight">
 </p>
@@ -23,8 +23,8 @@
 
 ## 👀 Current overview
 ### 🔭 I’m working on - Online class management system. 
-### 🌱 I’m exploring - MongoDB Queries. 
-### 👯 I’m looking - For collaborating on open source projects. 
+### 🌱 I’m exploring - MongoDB and NextJS. 
+### 👯 I’m looking - For collaborating on any unique project. 
 ### 🤔 I’m trying - To develop my skills. 
 ### ⚡ Fun fact - I love back-end and anime.
 
