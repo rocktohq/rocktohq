@@ -30,7 +30,7 @@
 #### 🌱 I’m exploring - MongoDB and NextJS. 
 #### 👯 I’m looking - For collaborating on any unique project. 
 #### 🤔 I’m trying - To develop my skills. 
-#### ⚡ Fun fact - I love back-end and anime.
+#### ⚡ Fun fact - I watch anime when I get errors.
 
 <br />
 
