@@ -31,4 +31,7 @@
 <br />
 
 #
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rocktohq&theme=tokyonight" alt=""></p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rocktohq&theme=tokyonight" alt="">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rocktohq&theme=tokyonight" alt="">
+</p>
