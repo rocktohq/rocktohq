@@ -32,6 +32,12 @@
 
 #
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rocktohq&theme=tokyonight" alt="">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rocktohq&theme=tokyonight" alt="">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rocktohq&theme=tokyonight" alt="">
 </p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rocktohq&theme=tokyonight" alt="">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rocktohq&theme=tokyonight" alt="">
+</p>
+
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rocktohq&label=Profile%20Views&color=0e75b6&style=flat" alt="rocktohq" /> </p>
