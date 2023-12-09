@@ -4,7 +4,11 @@
 <br/>
 
 ## 📫 Connect me with
-[<p align="center"><img height="75" src="https://raw.githubusercontent.com/rocktohq/rocktohq/main/assets/images/linkedin.png">](https://www.linkedin.com/in/itzmonir)[<img height="75" src="https://raw.githubusercontent.com/rocktohq/rocktohq/main/assets/images/facebook.png">](https://facebook.com/itzmonir)</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/itzmonir"><img height="75" src="https://raw.githubusercontent.com/rocktohq/rocktohq/main/assets/images/linkedin.png" /></a>
+  <a href="https://facebook.com/itzmonir"><img height="75" src="https://raw.githubusercontent.com/rocktohq/rocktohq/main/assets/images/facebook.png" /></a>
+  <a href="https://instagram.com/itzmonir/"><img height="75" src="https://raw.githubusercontent.com/rocktohq/rocktohq/main/assets/images/instagram.png" /></a>
+</p>
 <br/>
 
 ## 📈 Current stats
